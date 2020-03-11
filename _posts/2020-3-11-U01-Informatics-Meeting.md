@@ -39,7 +39,7 @@ This is a highly abbreviated summary, in a question-answer format, with lots of 
 
 ### Next steps
 
-**WFU team:** Kindly agreed to share a mapping table of flowsheet IDs and labels to allow other sites to figure out what their corresponding flowsheet IDs should be, as well as a copy of the medication mapping table.
-**@AB:** Will send out the files previously shared by @NP and @AM to UTMB team, and write up this meeting summary. Will schedule a follow-up meeting to go over the SAS portion of the process.
+* **WFU team:** Kindly agreed to share a mapping table of flowsheet IDs and labels to allow other sites to figure out what their corresponding flowsheet IDs should be, as well as a copy of the medication mapping table.
+* **@AB:** Will send out the files previously shared by @NP and @AM to UTMB team, and write up this meeting summary. Will schedule a follow-up meeting to go over the SAS portion of the process.
 
 
